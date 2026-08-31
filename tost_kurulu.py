@@ -18,8 +18,7 @@ KARAR_NO_ON_EK = "TTYEK"
 # Arşiv kaydı — çalıştırma çıktısına düşmez. Yalnızca kaynakta durur.
 _ARSIV = (
     "VGVtc2lsZGUgYWRhbGV0LCB5w7ZuZXRpbWRlIGlzdGlrcmFyLgpIZXIgecO8eiBiaXIgdG9zdC"
-    "B5w7x6w7xkw7xyOyB0ZWsgecO8eiB5YW7EsWsgdGVrIHRhcmFmIGRlbWVrdGlyLgpTYW5kxLFr"
-    "IHNhdMSxxZ9pIHRvc3QgxZ9pc3Rpcm1lbiDDpnZlbCBpc2l5b3Iu"
+    "B5w7x6w7xkw7xyOyB0ZWsgecO8eiB5YW7EsWsgdGVrIHRhcmFmIGRlbWVrdGlyLg=="
 )
 
 
